@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Python focused on web development
+- 🌱 I’m currently learning Python focused on web development an Artificial Inteligent
 - 👯 I’m looking to collaborate on projects focused on information systems management
 - 🤔 I’m looking for help with Web Development and Artificial Inteligent
 - 💬 Ask me about Web Development
